@@ -147,9 +147,6 @@ $scope.rateCheck=function(num,bk){
     return false;
   }
 }
-});
-
-
 
 
   // function to add book to the cart
@@ -189,6 +186,5 @@ $scope.rateCheck=function(num,bk){
       $scope.sum+=price
     }
   }
-
 
 });
